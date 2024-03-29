@@ -12,7 +12,6 @@ function App() {
     <div className="App">
 <Input type="text" value={username} label="Phone Number,username or email" onChange={(e)=>setUsername(e.target.value)}></Input>
     <Input type="password" value={password} label="Password" onChange={(e)=>setPassword(e.target.value)}></Input>
-    ELERO ENZONZİ DONNARUMA
     </div>
   );
 }
